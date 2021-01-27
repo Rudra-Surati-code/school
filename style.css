@@ -106,3 +106,15 @@ html {
 .movie_text span {
     color: #ff7700;
 }
+
+#achivements {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+
+.school_achivments1,
+.school_achivments2,
+.school_achivments3 {
+    margin-left: 200px;
+}
